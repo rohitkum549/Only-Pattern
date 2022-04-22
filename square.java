@@ -1,3 +1,7 @@
+// ******** 
+// ******** 
+// ******** 
+// ******** 
 package code;
 
 public class square 
@@ -14,3 +18,4 @@ public class square
 		}
 	}
 }
+// O(n)
